@@ -1,0 +1,13 @@
+[
+  {
+    "isbn": "1234567899876",
+    "title": "Test Automation",
+    "subTitle": "Lesson 25",
+    "author": "Semih Dinler",
+    "publish_date": "2016-09-03T00:00:00.000Z",
+    "publisher": "SD",
+    "pages": 263,
+    "description": "Example for API Test: POST Requests",
+    "website": "https://example.com"
+  }
+]
